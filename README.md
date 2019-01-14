@@ -2,25 +2,13 @@
 
 [![sites](litelife/litelife.png)](http://www.litelife.cc)
 
-#### [更多litelife](https://github.com/lite-life/litelife)可访问 www.litelife.cc
+#### [litelife](https://github.com/lite-life/litelife) <-- 主页 --> www.litelife.cc
 
 ## [简介](https://github.com/lite-life/elite/wiki) 
 
-强大且可靠的计算设备和通行设备，各种延伸和辅助工具
+工作是为了更好的生活，我们不是花时间工作而是提供智慧，高效的输出和评判反馈，有助于可持续突破
 
-## [组成](litelife/) 
-
-#### [时间管理](litelife/) 
-
-所有行为的识别和时间的统计，时间列表搜集和耗时的预估
-
-#### [任务管理](litelife/) 
-
-各种事物堆栈处理，模仿高性能CPU工作模式
-
-#### [效能管理](litelife/) 
-
-各种统计和自动评定
+工具是做任何事情的前提
 
 ---
 
