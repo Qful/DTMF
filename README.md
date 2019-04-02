@@ -2,15 +2,17 @@
 
 [![sites](litelife/litelife.png)](http://www.litelife.cc)
 
-#### [litelife](https://github.com/lite-life/litelife) <-- 主页 --> www.litelife.cc
+#### qitas@qitas.cn <-- [repo](https://github.com/lite-life/litelife) --> www.litelife.cc
 
 ## [简介](https://github.com/lite-life/elite/wiki) 
 
-工作是为了更好的生活，我们不是花时间工作而是提供智慧，高效的输出和评判反馈，有助于可持续突破
+elite是litelife的一个重要组成部分，通过elite项目向大家介绍定制化的个人数字化产品，通过拆分集成的思路，提供小众化的办公设备。
 
-工具是做任何事情的前提
+项目主要包括效率集成型外设，例如功能丰富的键鼠，各种电脑板卡和工具设备等。
 
----
+以工程师视角出发的需求集成解决方案，为软硬件工程师提供更便利的开发管理工具。
 
-###  www.litelife.cc   
-####  qitas@qitas.cn
+
+#### [keyboard](keyboard/)
+
+定制机械键盘，包括Intel计算设备，连接外置显示器即可组成一台PC
