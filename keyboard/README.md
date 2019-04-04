@@ -33,10 +33,7 @@
 	
 开源项目资源检索：
 
-https://github.com/qmk/qmk_firmware
-
-https://github.com/tmk/tmk_keyboard
-
-https://github.com/julbouln/stm32_mech_keyboard
-
-https://github.com/lukas2511/STM32-USB-Keyboard
+- https://github.com/qmk/qmk_firmware
+- https://github.com/tmk/tmk_keyboard
+- https://github.com/julbouln/stm32_mech_keyboard
+- https://github.com/lukas2511/STM32-USB-Keyboard

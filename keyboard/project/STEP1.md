@@ -1,8 +1,8 @@
 ﻿## [键盘实现](https://github.com/lite-life/elite) 
 
-MCU主体：[STM32F103C8T6](https://github.com/sochub/STM32F103C8) 
+MCU主体：[STM32F103C8](https://github.com/sochub/STM32F103C) 
 
-包括相应的工程代码，STM32F103C8T6是一颗最常用的MCU，作为原型开发可以获得更多的资源支持和性价比（量产不建议）
+该目录包括相应的工程代码，STM32F103C8T6是一颗非常常用的MCU，作为原型开发可以获得更多的资源支持和性价比（量产不建议）
 
 [返回键盘工程](../) 
 
@@ -12,12 +12,12 @@ MCU主体：[STM32F103C8T6](https://github.com/sochub/STM32F103C8)
 - 灯板的信息呈现效果
 
 
-采用多颗STM32F103C8T6 MCU控制整个键盘设备，包括87按键高频检测，各类传感器的控制和RGB灯光控制
+采用多颗STM32F103C8 MCU控制整个键盘设备，包括87按键高频检测，各类传感器的控制和RGB灯光控制
 
 
 开源资源检索收集：
 
 - https://github.com/viktorvano/STM32F103C8T6_HID_keyboard
 - https://github.com/MightyPork/stm32f103-usb-keyboard
-https://github.com/Pekaso/pillcase36
-https://github.com/Beastmaster/stm32f103_usb_hid
+- https://github.com/Pekaso/pillcase36
+- https://github.com/Beastmaster/stm32f103_usb_hid
