@@ -13,3 +13,11 @@ MCU主体：[STM32F103C8T6](https://github.com/sochub/STM32F103C8)
 
 
 采用多颗STM32F103C8T6 MCU控制整个键盘设备，包括87按键高频检测，各类传感器的控制和RGB灯光控制
+
+
+开源资源检索收集：
+
+- https://github.com/viktorvano/STM32F103C8T6_HID_keyboard
+- https://github.com/MightyPork/stm32f103-usb-keyboard
+https://github.com/Pekaso/pillcase36
+https://github.com/Beastmaster/stm32f103_usb_hid
