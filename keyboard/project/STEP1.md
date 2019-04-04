@@ -1,10 +1,10 @@
-﻿## [键盘功能实现](https://github.com/lite-life/elite) 
+﻿## [键盘实现](https://github.com/lite-life/elite) 
 
-MCU主体：STM32F103C8T6
+MCU主体：[STM32F103C8T6](https://github.com/sochub/STM32F103C8) 
 
-包括相应的工程代码
+包括相应的工程代码，STM32F103C8T6是一颗最常用的MCU，作为原型开发可以获得更多的资源支持和性价比（量产不建议）
 
-[键盘工程](../) 
+[返回键盘工程](../) 
 
 
 - 每个按键下对应单独的灯光管理，RGB+PWM实现调色
@@ -12,4 +12,4 @@ MCU主体：STM32F103C8T6
 - 灯板的信息呈现效果
 
 
-采用多颗MCU控制87按键检测，传感器控制和灯光控制
+采用多颗STM32F103C8T6 MCU控制整个键盘设备，包括87按键高频检测，各类传感器的控制和RGB灯光控制
