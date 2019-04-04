@@ -1,7 +1,8 @@
-﻿## [键盘实现](https://github.com/lite-life/elite) 
+﻿## [键盘STEP1实现](https://github.com/lite-life/elite) 
 
-MCU主体：[STM32F103C8](https://github.com/sochub/STM32F103C) 
-[返回键盘工程](../) 
+MCU控制主体：N x [STM32F103C8](https://github.com/sochub/STM32F103C) 
+
+[返回 -> 键盘工程](../) 
 
 该目录包括相应的工程代码，STM32F103C8T6是一颗非常常用的MCU，作为原型开发可以获得更多的资源支持和性价比（量产不建议）
 
