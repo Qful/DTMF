@@ -2,13 +2,13 @@
 
 [![sites](litelife/litelife.png)](http://www.litelife.cc)
 
-#### qitas@qitas.cn <-- [repo](https://github.com/lite-life/litelife) --> elite.litelife.cc
+#### qitas@qitas.cn <-- [GitHub repo](https://github.com/lite-life/litelife) --> [litelife](http://elite.litelife.cc) 
 
 ## [简介](https://github.com/lite-life/elite/wiki) 
 
-elite是litelife的一个重要组成部分，通过elite项目向大家介绍定制化的个人数字化产品，通过拆分集成的思路，提供小众化的办公设备。
+elite是litelife的重要组成部分，通过elite项目介绍定制化数字产品，通过拆分集成的思路，提供高效鲜明特征的集成设备。
 
-项目主要针对目标包括效率集成和优化，例如功能丰富的键鼠外设集成更多自动化能力，各种功能目的的电脑扩展板卡和工具设备等。
+elite项目主要针对效率集成和功能优化，通过提升单位体积的功能比例和单位价格的功能值，满足小众市场的非标准需求，例如功能丰富的键鼠外设集成更多自动化能力，各种功能目的的电脑扩展板卡和工具设备等。
 
 
 #### [keyboard](keyboard/)
@@ -22,3 +22,7 @@ elite是litelife的一个重要组成部分，通过elite项目向大家介绍�
 #### [HUB](hub/)
 
 重新定义的扩展，逐步由DIY更换到新物种诞生
+
+#### [EXT](ext/)
+
+PC集成设备，通过内部集成防拆卸同时免驱动
