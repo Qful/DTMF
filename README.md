@@ -1,10 +1,10 @@
-﻿# [elite lifestyle](https://github.com/lite-life/elite) 
+﻿# [elite life](https://github.com/lite-life/elite) 
 
 [![sites](litelife/litelife.png)](http://www.litelife.cc)
 
 #### qitas@qitas.cn <-- [GitHub](https://github.com/lite-life/litelife) --> [litelife.cc](http://elite.litelife.cc) 
 
-## [简介](https://github.com/lite-life/elite/wiki) 
+## [工程简介](https://github.com/lite-life/elite/wiki) 
 
 elite是litelife的重要组成部分，通过elite项目介绍定制化数字产品，通过拆分集成的思路，提供高效鲜明特征的集成设备。
 
@@ -26,4 +26,4 @@ elite项目主要针对效率集成和功能优化，通过提升单位体积的
 
 #### [EXT](ext/)
 
-PC集成设备，通过内部集成防拆卸同直接驱动
+PC集成板卡，通过内部集成防拆卸同直接驱动

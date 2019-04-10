@@ -1,15 +1,19 @@
 ﻿## [HUB](https://github.com/lite-life/elite) 
 
-针对键鼠等产品的扩展补充实现，在没有条件的情况下对外转移难度
+针对键鼠等自定义产品扩展补充，实现多设备多场景应用
 
 - [键盘](../keyboard) 
 - [鼠标](../mouse) 
+- [板卡](../ext) 
 
-### 接口定义
+### [功能定义](https://github.com/lite-life/elite/projects/2)
 
-针对单type c接口，集成DP和USB通信，以及PD模式供电，所以该HUB需要一分三
+- USB通信功能HUB
+- PD模式供电转换
+- 音频类设备接口
+- 视频类设备接口
 
-[产品原型参考](https://item.taobao.com/item.htm?spm=a1z0d.6639537.1997196601.111.53157484OSNfrE&id=558961472441) 
 
+HUB通过单type c和键盘设备连接，接口集成视频接口和USB高速通信接口以及PD模式供电，同时设备需要维持和多PC间的USB HID外设连接，避免反复发现过程。
 
-针对没有内置电源的键盘设备，需要通过HUB连接电源，所以HUB能够集成充电宝功能将更全面
+HUB集成充电宝功能，扩展实用价值，同时为多个外设提供价值
