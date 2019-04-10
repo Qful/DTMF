@@ -1,39 +1,36 @@
 ﻿## [keyboard](https://github.com/lite-life/elite) 
 
-采用分体式电路设计和控制，不同PCB主体间通过FPC连接，中断管理按键事件，各种按键信息的收集和模式学习
+elite keyboard采用分体式电路设计，不同电路板间完成特定的额外功能，按照制定的相关规范，可以部分进行升级替换，同时提供便于DIY的设计
 
-工程将包括相关的嵌入式驱动工程和硬件电路工程文件，相关的设计文档和用到的参考资料
+本工程将包括相关的协议和参考工程文件，相关的设计思路和实施实现方案
 
 - [搭配鼠标](../mouse) 
-- [扩展HUB](../hub) 
+- [外扩展HUB](../hub) 
+- [集成板卡](../ext) 
 
 
+### 功能定义
 
-### 功能迭代
-
-- [step 1](project/STEP1.md) ：
-	* 轴管理，每个按键下对应的灯光管理
-	* 内部传感器闭环控制逻辑
-	* 灯板的信息呈现
+- [step 1](project/STEP1.md) ：键盘实现
+	* 按键事件和时间监控
+	* USB HID设备驱动
+	* 灯板信息呈现
 	
-- [step 2](project/STEP2.md) ：
+- [step 2](project/STEP2.md) ：功能添加
 	* 模块化板卡内部集成USBHUB
 	* 针对接口自定义的线序逻辑
 	* 输出线路的管控和切换能力
 	
-- [step 3](project/STEP3.md) ：
-	* 红外定位和红外控制
-	* NFC功能实现
-	* 多蓝牙和无线通信实现
+- [step 3](project/STEP3.md) ：交互感知
+	* 多麦克风拾音
+	* 触摸按键
+	* 压力感知
 
-- [step 4](project/STEP4.md) ：
-	* 和鼠标的功能搭配实现和互补增强
+- [step 4](project/STEP4.md) ：计算集成
+	* 设备闭环控制
 	* 计算设备集成
-	* 语音功能集成
-	
-开源项目资源检索：
+	* 语音视频处理
 
-- https://github.com/qmk/qmk_firmware
-- https://github.com/tmk/tmk_keyboard
-- https://github.com/julbouln/stm32_mech_keyboard
-- https://github.com/lukas2511/STM32-USB-Keyboard
+- [step 5](project/STEP5.md) ：智慧加持
+
+人是数据时代最大的生产者和消费者，和人直接接触的设备也是能解析出最多有价值数据的设备，而当下的现状是所有直接接触的设备都只是人的忠诚工具而不是数据世界高产的搬运工，从简单的键盘外设开始，将更多的数据搬运到数据加工的产线上，反馈给人更多的惊喜吧！
