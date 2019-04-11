@@ -9,7 +9,7 @@ elite keyboard采用分体式电路设计，不同电路板间完成特定的额
 - [集成板卡](../ext) 
 
 
-### 功能定义
+### [功能定义](https://github.com/lite-life/elite/projects/1)
 
 - [step 1](project/STEP1.md) ：键盘实现
 	* 按键事件和时间
@@ -34,5 +34,11 @@ elite keyboard采用分体式电路设计，不同电路板间完成特定的额
 - [step 5](project/STEP5.md) ：智慧加持
 	* 行为预判
 	* 身份确认
+
+### [组件单元](https://github.com/lite-life)
+
+- [type-c接口组件](https://github.com/lite-life/entypec)
+- [灯光控制组件](https://github.com/lite-life/enLight)
+- [拾音控制组件](https://github.com/lite-life/enmic)
 
 人是数据时代最大的生产者和消费者，和人直接接触的设备也是能解析出最多有价值数据的设备，而当下的现状是所有直接接触的设备都只是人的忠诚工具而不是数据世界高产的搬运工，从简单的键盘外设开始，将更多的数据搬运到数据加工的产线上，反馈给人更多的惊喜吧！

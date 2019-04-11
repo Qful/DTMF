@@ -17,3 +17,8 @@
 HUB通过单type c和键盘设备连接，接口集成视频接口和USB高速通信接口以及PD模式供电，同时设备需要维持和多PC间的USB HID外设连接，避免反复发现过程。
 
 HUB集成充电宝功能，扩展实用价值，同时为多个外设提供价值
+
+
+### [组件单元](https://github.com/lite-life)
+
+- [type-c接口组件](https://github.com/lite-life/entypec)
