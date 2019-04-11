@@ -12,8 +12,8 @@ elite keyboard采用分体式电路设计，不同电路板间完成特定的额
 ### 功能定义
 
 - [step 1](project/STEP1.md) ：键盘实现
-	* 按键事件和时间监控
-	* USB HID设备驱动
+	* 按键事件和时间
+	* USB多设备驱动
 	* 灯板信息呈现
 	
 - [step 2](project/STEP2.md) ：功能添加
