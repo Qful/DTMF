@@ -1,7 +1,7 @@
 ﻿# [elite](https://github.com/Qful/elite) 
 [![sites](Qful/qitas.png)](http://www.Qful.net)
 ####  qitas@qitas.cn
-## [简介](https://github.com/Qful/elite) 
+### [简介](https://github.com/Qful/elite) 
 
 elite项目的初衷是整合各种软硬件资源，提高办公效率，通过各种技术的整合降低人的时间精力投入。
 
@@ -10,12 +10,14 @@ elite项目的初衷是整合各种软硬件资源，提高办公效率，通过
 
 包括可以整合的资源有：办公环境所需的虚拟网络和文件存储管理，相应的输入输出设备，工程调试装备虚拟仪器等
 
-- [intHUB](https://github.com/Qful/intHUB) 
-- [keyboard](https://github.com/Qful/keyboard) 
+- [intHUB PCIe扩展板卡](https://github.com/Qful/intHUB) 
+- [keyboard 高效键盘](https://github.com/Qful/keyboard) 
 
 ### [Q资源](https://github.com/Qful)
 
-- [Q软件](https://github.com/OS-Q)
+- [Q系统](https://github.com/OS-Q)
 - [Q硬件](https://github.com/sochub)
 - [Q智慧](https://github.com/tfzoo)
 - [Q品质](https://github.com/qitas)
+
+### www.Qful.net
