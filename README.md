@@ -1,23 +1,33 @@
-﻿# [elite](https://github.com/Qful/elite) 
+﻿# [elite](https://github.com/Qful/elite)
+
 [![sites](Qful/qitas.png)](http://www.Qful.net)
-####  qitas@qitas.cn
-### [简介](https://github.com/Qful/elite) 
 
-elite项目的初衷是整合各种软硬件资源，提高办公效率，通过各种技术的整合降低人的时间精力投入。
+## [elite简介](https://github.com/Qful/elite)
 
-通过IT环境虚拟化和硬件化，将日常所需的各种文件资源管理，权限管理，网络管理和考评管理体系自动梳理，在适当的节点部署适当的设施，完成范式工程。
+elite项目是Qful工程的一个集中展示，通过集成所有的创新设备，搭建一个高效数字化环境，这个环境将是Qful量身定制的。
 
+在elite项目中，其他的各种集大成的组件都成了新的组件被集成进来，通过完美的搭配整合，完成行云流水的体验，其中被整合的项目包括：
 
-包括可以整合的资源有：办公环境所需的虚拟网络和文件存储管理，相应的输入输出设备，工程调试装备虚拟仪器等
+* [intHUB](https://github.com/Qful/intHUB)
+* [extHUB](https://github.com/Qful/intHUB)
+* [keyboard](https://github.com/Qful/keyboard)
+* [PCenter](https://github.com/Qful/PCenter)
+* [PContro](https://github.com/Qful/PContro)
+* [Pcasket](https://github.com/Qful/Pcasket)
 
-- [intHUB PCIe扩展板卡](https://github.com/Qful/intHUB) 
-- [keyboard 高效键盘](https://github.com/Qful/keyboard) 
+本工程的核心要旨是全自动化和智能化，通过互联互通形成一个大的整体
+
+### [工程目录](https://github.com/Qful)
+
+* [文档](docs/)
+* [资源](src/)
+* [工程](project/)
 
 ### [Q资源](https://github.com/Qful)
 
-- [Q系统](https://github.com/OS-Q)
-- [Q硬件](https://github.com/sochub)
-- [Q智慧](https://github.com/tfzoo)
-- [Q品质](https://github.com/qitas)
+* [Q系统](https://github.com/OS-Q)
+* [Q硬件](https://github.com/sochub)
+* [Q智慧](https://github.com/tfzoo)
+* [Q品质](https://github.com/qitas)
 
 ### www.Qful.net
