@@ -1,33 +1,9 @@
-﻿# [elite](https://github.com/Qful/elite)
+﻿# [DTMF](https://github.com/Qful/DTMF)
 
-[![sites](Qful/qitas.png)](http://www.Qful.net)
+[![sites](http://182.61.61.133/link/resources/Qful.png)](http://www.Qful.net)
 
-## [elite简介](https://github.com/Qful/elite)
+## [DTMF简介](https://github.com/Qful/DTMF)
 
-elite项目是Qful工程的一个集中展示，通过集成所有的创新设备，搭建一个高效数字化环境，这个环境将是Qful量身定制的。
+双音多频[DTMF](https://github.com/Qful/DTMF) 是贝尔实验室发明，其目的是为了自动完成长途呼叫。由高频群和低频群组成，高低频群各包含4个频率。一个高频信号和一个低频信号叠加组成一个组合信号，代表一个数字。DTMF信号有16个编码。电话系统中电话机与交换机之间的一种用户信令，通常用于发送被叫号码。
 
-在elite项目中，其他的各种集大成的组件都成了新的组件被集成进来，通过完美的搭配整合，完成行云流水的体验，其中被整合的项目包括：
-
-* [intHUB](https://github.com/Qful/intHUB)
-* [extHUB](https://github.com/Qful/intHUB)
-* [keyboard](https://github.com/Qful/keyboard)
-* [PCenter](https://github.com/Qful/PCenter)
-* [PContro](https://github.com/Qful/PContro)
-* [Pcasket](https://github.com/Qful/Pcasket)
-
-本工程的核心要旨是全自动化和智能化，通过互联互通形成一个大的整体
-
-### [工程目录](https://github.com/Qful)
-
-* [文档](docs/)
-* [资源](src/)
-* [工程](project/)
-
-### [Q资源](https://github.com/Qful)
-
-* [Q系统](https://github.com/OS-Q)
-* [Q硬件](https://github.com/sochub)
-* [Q智慧](https://github.com/tfzoo)
-* [Q品质](https://github.com/qitas)
-
-### www.Qful.net
+根据CCITT的建议，国际上采用的多种频率为697Hz、770Hz、852Hz、941Hz、1209Hz、1336Hz、1477Hz和1633Hz等8种。用这8种频率可形成16种不同的组合。
